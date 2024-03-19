@@ -1,0 +1,14 @@
+{
+  "locofyConfig": {
+    "project": "Designer Portfolio (Community)",
+    "id": "65f9ca86030a869aa6d66ab6",
+    "framework": "html-css",
+    "typescript": false,
+    "styling": "CSS",
+    "unit": "px",
+    "naming": "Kebab Case",
+    "path": "public/",
+    "componentsPath": "c:\\Users\\Hp\\Desktop\\web\\src\\components",
+    "screensPath": "c:\\Users\\Hp\\Desktop\\web\\src\\pages"
+  }
+}
